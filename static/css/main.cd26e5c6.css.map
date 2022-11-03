@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.cd26e5c6.css","mappings":"AAAA,EAGE,qBACF,CAEA,KAEE,wCAA6C,CAD7C,iBAEF","sources":["App.css"],"sourcesContent":["* {\n  /* margin: 0;\n  padding: 0; */\n  box-sizing: border-box;\n}\n\n.App {\n  text-align: center;\n  font-family: 'Lucida Sans', Arial, sans-serif;\n}\n"],"names":[],"sourceRoot":""}
